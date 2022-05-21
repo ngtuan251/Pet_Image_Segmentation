@@ -16,7 +16,7 @@ The dataset I will use is the [Oxford-IIIT Pet Dataset](https://www.robots.ox.ac
 
 ## Result
 
-![Segmentation Prediction]((https://raw.githubusercontent.com/ngtuan251/Pet_Image_Segmentation/master/images/segmentation_img.PNG)
+![Segmentation Prediction](https://raw.githubusercontent.com/ngtuan251/Pet_Image_Segmentation/master/images/segmentation_img.PNG)
 
 ## References
 
